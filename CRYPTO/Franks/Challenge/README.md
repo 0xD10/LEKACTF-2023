@@ -1,0 +1,1 @@
+Found this algorithm with a french name on the internet. I encrypted my flag with it and then encoded it 2 times. I deleted the original flag file and forgot the flag, the first encoding and I can't make an encrytpion algorithm to take it back!!! Please help me or the germans will take over Paris... again!

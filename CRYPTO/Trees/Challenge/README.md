@@ -1,0 +1,1 @@
+So, what happens when you combine random things together in a python script? An excellent cryptographic algorithm! Or at least I think so... In any ways try to decrypt the message which I encrypted! I do not think you will ever be able to guess the VERY random key that I used!
